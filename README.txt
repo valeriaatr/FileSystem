@@ -1,3 +1,7 @@
+Valeria Frolova
+University of Victoria
+Spring 2020
+
 There are some compilation issues due structs' management.
 Please, read report about FS implementation and brainstorming
 
