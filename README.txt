@@ -2,7 +2,7 @@ Valeria Frolova
 University of Victoria
 Spring 2020
 
-Several branches: io, File, Disk
+Several files: io - the File System, apps (contains test file), Disk implementation
 There are some compilation issues due structs' management.
 Please, read report about FS implementation and brainstorming
 
