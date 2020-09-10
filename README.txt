@@ -2,6 +2,7 @@ Valeria Frolova
 University of Victoria
 Spring 2020
 
+Several branches: io, File, Disk
 There are some compilation issues due structs' management.
 Please, read report about FS implementation and brainstorming
 
